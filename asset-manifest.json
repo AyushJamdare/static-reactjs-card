@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static-reactjs-card/static/css/main.86057b19.css",
+    "main.js": "/static-reactjs-card/static/js/main.ed1999a3.js",
+    "static/js/787.89b1fe06.chunk.js": "/static-reactjs-card/static/js/787.89b1fe06.chunk.js",
+    "static/media/Esdeath.jpg": "/static-reactjs-card/static/media/Esdeath.8f46a6203310996ae2a1.jpg",
+    "index.html": "/static-reactjs-card/index.html",
+    "main.86057b19.css.map": "/static-reactjs-card/static/css/main.86057b19.css.map",
+    "main.ed1999a3.js.map": "/static-reactjs-card/static/js/main.ed1999a3.js.map",
+    "787.89b1fe06.chunk.js.map": "/static-reactjs-card/static/js/787.89b1fe06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86057b19.css",
+    "static/js/main.ed1999a3.js"
+  ]
+}
